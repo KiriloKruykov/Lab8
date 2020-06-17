@@ -3,7 +3,7 @@
  * Classname: Rectangle
  *
  * @version 14.06.2020
- * @author Kryukov Kirilo
+ * @author Kryukov Kiril
  * Module 2 task 4
  *
  * Programming patterns. Factory, Builder.
